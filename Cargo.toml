@@ -1,0 +1,15 @@
+[package]
+name = "sispm"
+version = "1.0.0"
+edition = "2021"
+
+authors = ["User65k <15049544+User65k@users.noreply.github.com>"]
+repository = "https://github.com/User65k/sispm"
+description = "control Gembird SIS-PM USB outlet devices"
+license = "MIT"
+keywords = ["usb", "Gembird", "SIS-PM"]
+readme = "README.md"
+
+
+[dependencies]
+rusb = "0.9"
