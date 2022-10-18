@@ -8,7 +8,7 @@ repository = "https://github.com/User65k/sispm"
 description = "control Gembird SIS-PM USB outlet devices"
 license = "MIT"
 keywords = ["usb", "Gembird", "SIS-PM"]
-readme = "README.md"
+readme = "README.MD"
 
 
 [dependencies]
